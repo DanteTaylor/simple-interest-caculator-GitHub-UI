@@ -1,4 +1,1 @@
-Thank you for your contribution!
-
-- Dante Taylor
-- The core team that currently uses Subversion :-)
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
